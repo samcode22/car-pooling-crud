@@ -1,0 +1,9 @@
+C:\Users\samya\source\repos\SOA\SOA\bin\Debug\SOA.exe.config
+C:\Users\samya\source\repos\SOA\SOA\bin\Debug\SOA.exe
+C:\Users\samya\source\repos\SOA\SOA\bin\Debug\SOA.pdb
+C:\Users\samya\source\repos\SOA\SOA\obj\Debug\SOA.csprojAssemblyReference.cache
+C:\Users\samya\source\repos\SOA\SOA\obj\Debug\SOA.Form1.resources
+C:\Users\samya\source\repos\SOA\SOA\obj\Debug\SOA.Properties.Resources.resources
+C:\Users\samya\source\repos\SOA\SOA\obj\Debug\SOA.csproj.GenerateResource.cache
+C:\Users\samya\source\repos\SOA\SOA\obj\Debug\SOA.exe
+C:\Users\samya\source\repos\SOA\SOA\obj\Debug\SOA.pdb
