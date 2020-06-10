@@ -78,7 +78,7 @@ public class Service : IService
         }
         catch(Exception)
         {
-            throw;
+            return -1;
         }
         finally
         {

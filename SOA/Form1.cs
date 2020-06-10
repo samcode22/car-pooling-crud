@@ -32,6 +32,12 @@ namespace SOA
             {
                 MessageBox.Show("Car Details Inserted Successfully");
             }
+            else
+            {
+                MessageBox.Show("CarId already taken");
+
+
+            }
             textBox1.Clear();
             textBox2.Clear();
             textBox3.Clear();
